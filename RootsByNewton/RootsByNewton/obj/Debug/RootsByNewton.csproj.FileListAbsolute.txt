@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.RootsCalculator.resources
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.Properties.Resources.resources
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.RootsCalculator.en.resources
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\bin\Debug\RootsByNewton.exe.config
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\bin\Debug\RootsByNewton.exe
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\bin\Debug\RootsByNewton.pdb
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\bin\Debug\en\RootsByNewton.resources.dll
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\en\RootsByNewton.resources.dll
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.exe
+C:\Users\PC\source\repos\RootsByNewton\RootsByNewton\obj\Debug\RootsByNewton.pdb
